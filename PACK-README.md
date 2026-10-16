@@ -1,6 +1,6 @@
 # ShipKits Harness Desk Starter
 
-Free ($0) email-magnet starter for multi-harness agent ops. One named seat, one skill, a gate card, and a 30-minute sample run. Warm, plain, operator-grade.
+Free ($0) starter. No email required. Built for multi-harness agent ops. One named seat, one skill, a gate card, and a 30-minute sample run. Warm, plain, operator-grade.
 
 You learn **done = file / PR / URL**, not another prompt dump. Works in **Cursor**, **Claude Code**, and **Grok Bot**.
 
@@ -52,7 +52,7 @@ Handoff meta (Eng only; not a buyer claim unless listed in KIT_FILES): `INVENTOR
 | Gate card ($0 / publish / send / spend) | `gates/gate-card.md` |
 | Multi-harness install map (Cursor + Claude Code + Grok Bot) | `INSTALL.md`, `install.sh`, seat multi-harness notes |
 | 30-min sample run | `SAMPLE-RUN.md` |
-| Free ($0 email magnet); pairs with Day-1 $12 / OP $47 | This README, `BRIDGE.md` |
+| Free ($0, no email); pairs with Day-1 $12 / OP $47 | This README, `BRIDGE.md` |
 
 ## Never claims
 
